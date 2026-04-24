@@ -1,0 +1,2 @@
+execute if score @s mc_dash matches 0 run title @s actionbar [{"text":"⚡ Mystic Dash: ","color":"gray"},{"text":"INACTIVO","color":"red"},{"text":" | Potencia: Nivel ","color":"gray"},{"score":{"name":"*","objective":"dash_est"},"color":"yellow"}]
+execute if score @s mc_dash matches 1 run title @s actionbar [{"text":"⚡ Mystic Dash: ","color":"green"},{"text":"ACTIVO","color":"aqua","bold":true},{"text":" | Potencia: Nivel ","color":"gray"},{"score":{"name":"*","objective":"dash_est"},"color":"gold","bold":true}]

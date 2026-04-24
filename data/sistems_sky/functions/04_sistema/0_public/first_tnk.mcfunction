@@ -1,0 +1,3 @@
+## Primer ingreso a la clase de tanque:
+# Stun Perfecto: Inmoviliza 5s y debilita al enemigo.
+give @s carrot_on_a_stick{display:{Name:'{"text":"» Stun Perfecto «","color":"dark_purple","bold":true,"italic":false}',Lore:['{"text":"Inmoviliza 5s y debilita al enemigo.","color":"gray","italic":true}','{"text":""}','{"text":"• Reduce vida (30%) por 15s.","color":"dark_red","italic":false}','{"text":"• Reduce velocidad por 20s.","color":"dark_red","italic":false}','{"text":""}','{"text":"⌛ Enfriamiento: 40s","color":"aqua","italic":false}']},CustomModelData:1006,StunPerfecto:1b,Enchantments:[{id:"minecraft:unbreaking",lvl:1s}],HideFlags:1} 1

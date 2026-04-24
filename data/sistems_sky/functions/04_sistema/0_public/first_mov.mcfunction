@@ -1,0 +1,5 @@
+## Primer ingreso a la clase de movimiento:
+# Impulso Súbito: Impulso frontal de corta distancia.
+give @s carrot_on_a_stick{display:{Name:'{"text":"» Impulso Súbito «","color":"aqua","bold":true,"italic":false}',Lore:['{"text":"Impulso frontal de corta distancia.","color":"gray","italic":true}','{"text":""}','{"text":"⌛ Enfriamiento: 12s","color":"aqua","italic":false}']},CustomModelData:1002,mov_dash:1b,Enchantments:[{id:"minecraft:unbreaking",lvl:1s}],HideFlags:1} 1
+# Salto Ascendente: Impulso vertical de corta distancia.
+give @s carrot_on_a_stick{display:{Name:'{"text":"» Salto Ascendente «","color":"blue","bold":true,"italic":false}',Lore:['{"text":"Impulso vertical de corta distancia.","color":"gray","italic":true}','{"text":""}','{"text":"⌛ Enfriamiento: 12s","color":"aqua","italic":false}']},CustomModelData:1003,mov_leap:1b,Enchantments:[{id:"minecraft:unbreaking",lvl:1s}],HideFlags:1} 1

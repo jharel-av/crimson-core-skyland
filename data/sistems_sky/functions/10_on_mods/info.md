@@ -1,0 +1,2 @@
+# Información sobre esta carpeta:
+Aqui se colocaran las funciones exteras que si o si requieran de MODS especificos o comandos externos para usarse, asi evitamos Fallas en la logica interna de los Players.
