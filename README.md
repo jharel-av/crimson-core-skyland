@@ -65,6 +65,7 @@ Para más detalles, por favor lee el archivo [LICENSE.md](./LICENSE.md) incluido
 
 - **Jharel.AAV** (Desarrollo principal y lógica de sistemas)
 - **xLejks** (Co-autor / Desarrollo)
+- **SeruVT** (Creditos Especiales, Desarrollador principal de la primera versión del motor)
 
 ---
 
