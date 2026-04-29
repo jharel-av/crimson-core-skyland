@@ -1,5 +1,5 @@
 # Retirar el Logro para poder volver a obtenerlo al usar la habilidad.
-advancement revoke @s only sistems_sky:detectores/generals/atack/sed_sangre
+advancement revoke @s only sistems_sky:sed_sangre
 
 # Iniciador de la habilidad solo en caso de que el jugador aun no tenga configurado la tag
 scoreboard players add @s[tag=atk] cd_vampiro 0
