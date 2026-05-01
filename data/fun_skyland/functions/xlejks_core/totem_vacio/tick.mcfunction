@@ -1,1 +1,0 @@
-function fun_skyland:xlejks_core/totem_vacio/deteccion

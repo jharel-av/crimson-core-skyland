@@ -1,0 +1,1 @@
+function crimson_core:xlejks_core/totem_vacio/deteccion
