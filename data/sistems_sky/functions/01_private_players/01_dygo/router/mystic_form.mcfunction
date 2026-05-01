@@ -1,2 +1,0 @@
-function sistems_sky:01_private_players/00_mystics/mystic/mystic_form/trigger
-#   execute if predicate sistems_sky:sneak run function sistems_sky:01_private_players/01_dygo/habilidades/mystic_dash/trigger

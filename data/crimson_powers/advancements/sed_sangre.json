@@ -1,0 +1,10 @@
+{
+  "criteria": {
+    "robo_sangrio": {
+      "trigger": "minecraft:player_hurt_entity"
+    }
+  },
+  "rewards": {
+    "function": "crimson_powers:05_public/attack/robo_sangre/trigger"
+  }
+}

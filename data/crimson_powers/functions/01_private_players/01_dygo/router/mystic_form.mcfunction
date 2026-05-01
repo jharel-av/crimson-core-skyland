@@ -1,0 +1,2 @@
+function crimson_powers:01_private_players/00_mystics/mystic/mystic_form/trigger
+#   execute if predicate crimson_powers:sneak run function crimson_powers:01_private_players/01_dygo/habilidades/mystic_dash/trigger

@@ -1,2 +1,0 @@
-execute unless predicate sistems_sky:sneak run function sistems_sky:01_private_players/00_mystics/mystic/mystic_dash/trigger
-execute if predicate sistems_sky:sneak run function sistems_sky:01_private_players/00_mystics/mystic/mystic_dash/change_lv

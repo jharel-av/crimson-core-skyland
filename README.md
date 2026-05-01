@@ -26,7 +26,7 @@
 El corazón de este datapack reside en su diseño modular.
 
 ```text
-data/sistems_sky/functions/
+data/crimson_powers/functions/
 ├── 00_routers/      # Sistema central de detección (clics, muertes, estados)
 ├── 01_players/      # Lógicas y variables internas de cada jugador/clase
 ├── 02_visuals/      # Gestión de partículas y efectos cosméticos
