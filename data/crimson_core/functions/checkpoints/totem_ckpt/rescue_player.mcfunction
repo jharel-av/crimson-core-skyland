@@ -1,5 +1,5 @@
 # ===================================
-# SKYLAND ENGINE - TOTEMIC CHECKPOINTS - RESCUE PLAYER
+# CRIMSON CORE - TOTEMIC CHECKPOINTS - RESCUE PLAYER
 # ===================================
 
 # Si el jugador tiene un checkpoint totémico guardado (acpt_id >= 1), ejecutar el rescate.

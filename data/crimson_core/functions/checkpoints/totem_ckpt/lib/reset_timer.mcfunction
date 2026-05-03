@@ -1,5 +1,5 @@
 # ===================================
-# SKYLAND ENGINE - TOTEMIC CHECKPOINTS - LIB - RESET TIMER
+# CRIMSON CORE - TOTEMIC CHECKPOINTS - LIB - RESET TIMER
 # ===================================
 
 # Limpiar los scores del checkpoint totémico del jugador.

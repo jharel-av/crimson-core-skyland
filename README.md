@@ -1,10 +1,10 @@
-# ⚔️ Skyland Abilities (Datapack)
+# ⚔️ Crimson Core & Powers (Datapack)
 
 ![Minecraft Version](https://img.shields.io/badge/Minecraft-1.20.1-brightgreen?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Work_In_Progress-orange?style=flat-square)
 
-**Skyland Abilities** es un datapack avanzado y altamente modular diseñado para Minecraft 1.20.1. Introduce un robusto motor lógico (engine) que permite la creación, gestión y ejecución de habilidades activas, pasivas, efectos visuales y sistemas de combate complejos sin necesidad de plugins de Java.
+**Crimson Core & Powers** es un datapack avanzado y altamente modular diseñado para Minecraft 1.20.1. Introduce un robusto motor lógico (engine) que permite la creación, gestión y ejecución de habilidades activas, pasivas, efectos visuales y sistemas de combate complejos sin necesidad de plugins de Java.
 
 > **⚠️ AVISO: Proyecto en Desarrollo**
 > Este proyecto está en fase de desarrollo activo. Las mecánicas y la estructura del código pueden cambiar en futuras actualizaciones.

@@ -1,5 +1,5 @@
 # ===================================
-# SKYLAND ENGINE - NORMAL CHECKPOINTS - RESCUE PLAYER
+# CRIMSON CORE - NORMAL CHECKPOINTS - RESCUE PLAYER
 # ===================================
 
 # Si el jugador tiene un checkpoint guardado (acp_id >= 1), ejecutar el rescate.

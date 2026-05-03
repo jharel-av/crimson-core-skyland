@@ -1,5 +1,5 @@
 # ===================================
-# SKYLAND ENGINE - TOTEMIC CHECKPOINTS - LIB - REGISTER FROM MARKER (SET)
+# CRIMSON CORE - TOTEMIC CHECKPOINTS - LIB - REGISTER FROM MARKER (SET)
 # ===================================
 
 # Copiar el ID del marker ('sky_id_totem') al score 'acpt_id' del jugador.

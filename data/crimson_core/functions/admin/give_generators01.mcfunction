@@ -17,4 +17,4 @@ give @s slime_spawn_egg{display:{Name:'{"text":"[✔] Checkpoint COMÚN","color"
 
 give @s magma_cube_spawn_egg{display:{Name:'{"text":"[☠] Checkpoint TOTÉMICO","color":"red","italic":false}'},EntityTag:{id:"minecraft:marker",Tags:["iniciando_cp_totem"]}} 1
 
-tellraw @s[tag=admin] [{"text":"[Skyland Engine]","color":"gold"},{"text":" Has recibido los huevos generadores de Zonas NP Ilimitadas y de los Checkpoints.","color":"yellow"}]
+tellraw @s[tag=admin] [{"text":"[Crimson Core]","color":"gold"},{"text":" Has recibido los huevos generadores de Zonas NP Ilimitadas y de los Checkpoints.","color":"yellow"}]

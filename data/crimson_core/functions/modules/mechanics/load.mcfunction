@@ -1,5 +1,5 @@
 # ===================================
-# SKYLAND ENGINE - MECHANICS - MASTER LOAD
+# CRIMSON CORE - MECHANICS - MASTER LOAD
 # Carga todos los modulos/cores.
 # ===================================
 # Load totem del Vacio
@@ -17,4 +17,4 @@ function crimson_core:checkpoints/totem_ckpt/totem_load
 
 
 # ----- Debug: Sistemas cargados -----
-tellraw @a[tag=admin] [{"text":"[Skyland Engine:]","color":"gold"},{"text":" Sistema de Mecanicas Cargados Correctamente.","color":"yellow"}]
+tellraw @a[tag=admin] [{"text":"[Crimson Core:]","color":"gold"},{"text":" Sistema de Mecanicas Cargados Correctamente.","color":"yellow"}]

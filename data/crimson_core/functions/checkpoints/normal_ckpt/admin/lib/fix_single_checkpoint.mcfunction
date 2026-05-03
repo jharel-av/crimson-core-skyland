@@ -1,5 +1,5 @@
 # ===================================
-# SKYLAND ENGINE - NORMAL CHECKPOINTS - ADMIN - LIB - FIX SINGLE CHECKPOINT
+# CRIMSON CORE - NORMAL CHECKPOINTS - ADMIN - LIB - FIX SINGLE CHECKPOINT
 # Author: Gemini
 # Description: Assigns a new valid ID to a single checkpoint marker.
 # ===================================

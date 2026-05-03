@@ -1,5 +1,5 @@
 # ===================================
-# SKYLAND ENGINE - NORMAL CHECKPOINTS - ADMIN - FIX CHECKPOINTS
+# CRIMSON CORE - NORMAL CHECKPOINTS - ADMIN - FIX CHECKPOINTS
 # Author: Gemini
 # Description: Finds and repairs any checkpoint markers that are missing a valid sky_id.
 # ===================================

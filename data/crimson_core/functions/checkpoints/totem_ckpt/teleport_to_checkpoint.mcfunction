@@ -1,5 +1,5 @@
 # ===================================
-# SKYLAND ENGINE - TOTEMIC CHECKPOINTS - TELEPORT TO CHECKPOINT
+# CRIMSON CORE - TOTEMIC CHECKPOINTS - TELEPORT TO CHECKPOINT
 # Rescata al jugador y simula el uso de un tótem.
 # Usa una tag temporal para seguridad en multiplayer.
 # ===================================

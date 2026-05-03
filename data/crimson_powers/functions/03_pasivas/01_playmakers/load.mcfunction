@@ -3,4 +3,4 @@
 scoreboard objectives add playmakers_timer dummy
 scoreboard objectives add cat_aura_timer dummy
 scoreboard objectives add buff_cd dummy "Cooldown Frenesí"
-tellraw @a[tag=admin] {"text":"SkyLand Sistems: Pasivas de PlayMakers Load"}
+tellraw @a[tag=admin] {"text":"Crimson Core & Powers: Pasivas de PlayMakers Load"}

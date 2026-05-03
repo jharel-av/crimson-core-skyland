@@ -1,5 +1,5 @@
 # ===================================
-# SKYLAND ENGINE - NORMAL CHECKPOINTS - LIB - REGISTER FROM MARKER
+# CRIMSON CORE - NORMAL CHECKPOINTS - LIB - REGISTER FROM MARKER
 # ===================================
 
 # Copiar el 'sky_id' del marker más cercano al score temporal 'acp_temp' del jugador.

@@ -1,5 +1,5 @@
 # ===================================
-# SKYLAND ENGINE - NORMAL CHECKPOINTS - ADMIN - SETUP
+# CRIMSON CORE - NORMAL CHECKPOINTS - ADMIN - SETUP
 # ===================================
 
 # 1. Incrementar el contador global de IDs.

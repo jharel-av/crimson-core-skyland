@@ -1,5 +1,5 @@
 # ===================================
-# SKYLAND ENGINE - TOTEMIC CHECKPOINTS - ADMIN - SETUP
+# CRIMSON CORE - TOTEMIC CHECKPOINTS - ADMIN - SETUP
 # Se ejecuta desde un marker con el tag 'iniciando_cp_totem'
 # ===================================
 

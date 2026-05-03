@@ -1,5 +1,5 @@
 # ===================================
-# SKYLAND ENGINE - NORMAL CHECKPOINTS - ADMIN - RESET ALL SCOREBOARDS
+# CRIMSON CORE - NORMAL CHECKPOINTS - ADMIN - RESET ALL SCOREBOARDS
 # Author: Gemini
 # WARNING: This is a destructive action. It will wipe all checkpoint data for all players and markers.
 # ===================================

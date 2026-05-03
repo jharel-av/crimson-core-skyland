@@ -1,8 +1,8 @@
-# Skyland Engine - Core Load
+# Crimson Core - Core Load
 # Se ejecuta CADA VEZ que se recarga/carga el datapack.
 
 # DEBUG: Muestra el mensaje de recarga o carga inicial.
-tellraw @a[tag=admin] [{"text":"[Skyland Engine]","color":"gold"},{"text":" Core v2.0 se esta cargando.","color":"yellow"}]
+tellraw @a[tag=admin] [{"text":"[Crimson Core]","color":"gold"},{"text":" Core v2.0 se esta cargando.","color":"yellow"}]
 # Ejecuta Las Funciones Necesarias de 1 Solo uso del Datapack
   # Inicializar scoreboards (Solo si no existen, mantiene datos previos)
 function crimson_core:core/first_time_setup

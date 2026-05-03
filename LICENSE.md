@@ -1,4 +1,4 @@
-# Licencia - Datapack Skyland Abilities
+# Licencia - Datapack Crimson Core & Powers
 
 **Autores / Authors:** Jharel.AAV & xLejks & SeruVT
 

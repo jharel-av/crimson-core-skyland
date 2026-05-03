@@ -1,5 +1,5 @@
 # ===================================
-# SKYLAND ENGINE - NORMAL CHECKPOINTS - TICK
+# CRIMSON CORE - NORMAL CHECKPOINTS - TICK
 # ===================================
 
 # --- Rescate Anticaídas (Checkpoints) ---

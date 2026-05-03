@@ -1,5 +1,5 @@
 # ===================================
-# SKYLAND ENGINE - NORMAL CHECKPOINTS - ADMIN - LIB - REMOVE AND REPORT
+# CRIMSON CORE - NORMAL CHECKPOINTS - ADMIN - LIB - REMOVE AND REPORT
 # Author: Gemini
 # Description: Removes the nearest checkpoint and reports its ID. Assumes it's run by a player.
 # ===================================

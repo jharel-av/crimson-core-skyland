@@ -1,5 +1,5 @@
 # ===================================
-# SKYLAND ENGINE - NORMAL CHECKPOINTS - ADMIN - REMOVE (Improved by Gemini)
+# CRIMSON CORE - NORMAL CHECKPOINTS - ADMIN - REMOVE (Improved by Gemini)
 # ===================================
 
 # Si existe un checkpoint cercano, ejecutar la lógica de eliminación e informe.

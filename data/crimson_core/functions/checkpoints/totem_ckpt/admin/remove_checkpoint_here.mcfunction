@@ -1,5 +1,5 @@
 # ===================================
-# SKYLAND ENGINE - TOTEMIC CHECKPOINTS - ADMIN - REMOVE
+# CRIMSON CORE - TOTEMIC CHECKPOINTS - ADMIN - REMOVE
 # ===================================
 
 # Mata al marker más cercano que sea un punto de guardado totémico.

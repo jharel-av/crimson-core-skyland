@@ -1,5 +1,5 @@
 # ===================================
-# SKYLAND ENGINE - NORMAL CHECKPOINTS - LIB - RESET TIMER
+# CRIMSON CORE - NORMAL CHECKPOINTS - LIB - RESET TIMER
 # ===================================
 
 # Limpiar los scores del checkpoint del jugador.

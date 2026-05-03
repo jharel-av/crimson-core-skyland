@@ -1,5 +1,5 @@
 # ===================================
-# SKYLAND ENGINE - TOTEMIC CHECKPOINTS - DETECT FALL
+# CRIMSON CORE - TOTEMIC CHECKPOINTS - DETECT FALL
 # Se activa a -41 para jugadores con tags de tótem.
 # ===================================
 

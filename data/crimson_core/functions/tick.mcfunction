@@ -1,4 +1,4 @@
-# Skyland Engine - Core Tick
+# Crimson Core - Core Tick
 # Se ejecuta 20 veces por segundo.
 
 # --- Ejecución de Módulos ---

@@ -1,5 +1,5 @@
 # ===================================
-# SKYLAND ENGINE - TOTEMIC CHECKPOINTS - LIB - REGISTER FROM MARKER
+# CRIMSON CORE - TOTEMIC CHECKPOINTS - LIB - REGISTER FROM MARKER
 # ===================================
 
 # Copiar el 'sky_id_totem' del marker más cercano al score temporal 'acpt_temp' del jugador.

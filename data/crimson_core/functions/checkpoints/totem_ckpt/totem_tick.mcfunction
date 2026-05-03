@@ -1,5 +1,5 @@
 # ===================================
-# SKYLAND ENGINE - TOTEMIC CHECKPOINTS - TICK
+# CRIMSON CORE - TOTEMIC CHECKPOINTS - TICK
 # ===================================
 
 # --- Detección de Caída (Checkpoints Totémicos) ---

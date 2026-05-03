@@ -4,7 +4,7 @@
 
 ## Antocaídas General (AC):
 # Mensaje de carga
-tellraw @a[tag=admin] [{"text":"[Skyland Engine]","color":"gold"},{"text":" Módulo de Anticaídas General (anticaidas) cargado.","color":"aqua"}]
+tellraw @a[tag=admin] [{"text":"[Crimson Core]","color":"gold"},{"text":" Módulo de Anticaídas General (anticaidas) cargado.","color":"aqua"}]
 
 ## Anticaídas CheckPoints (ACP):
 # ===== SCOREBOARDS =====
@@ -28,7 +28,7 @@ scoreboard objectives add skyland_data dummy
 # Inicializar el contador global de IDs de checkpoints si no existe, para asegurar que el primer ID sea 1.
 execute unless score #GLOBAL_ID skyland_data matches 0.. run scoreboard players set #GLOBAL_ID skyland_data 0
 # Mensaje de carga
-tellraw @a[tag=admin] [{"text":"[Skyland Engine]","color":"gold"},{"text":" Módulo de Checkpoints Normales (normal_ckpt) cargado.","color":"aqua"}]
+tellraw @a[tag=admin] [{"text":"[Crimson Core]","color":"gold"},{"text":" Módulo de Checkpoints Normales (normal_ckpt) cargado.","color":"aqua"}]
 
 ## TOTEMIC CHECKPOINTS (acpt)
 # ===== SCOREBOARDS =====
@@ -49,4 +49,4 @@ scoreboard objectives add skyland_data_totem dummy
 # Inicializar el contador global si no existe.
 execute unless score #GLOBAL_ID skyland_data_totem matches 0.. run scoreboard players set #GLOBAL_ID skyland_data_totem 0
 # Mensaje de carga
-tellraw @a[tag=admin] [{"text":"[Skyland Engine]","color":"gold"},{"text":" Módulo de Checkpoints Totémicos (totem_ckpt) cargado.","color":"aqua"}]
+tellraw @a[tag=admin] [{"text":"[Crimson Core]","color":"gold"},{"text":" Módulo de Checkpoints Totémicos (totem_ckpt) cargado.","color":"aqua"}]

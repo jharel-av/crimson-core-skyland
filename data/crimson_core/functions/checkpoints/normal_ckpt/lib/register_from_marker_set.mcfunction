@@ -1,5 +1,5 @@
 # ===================================
-# SKYLAND ENGINE - NORMAL CHECKPOINTS - LIB - REGISTER FROM MARKER (SET)
+# CRIMSON CORE - NORMAL CHECKPOINTS - LIB - REGISTER FROM MARKER (SET)
 # ===================================
 
 # Copiar el ID del marker ('sky_id') al score 'acp_id' del jugador.
