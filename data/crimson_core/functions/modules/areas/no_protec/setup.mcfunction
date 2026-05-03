@@ -1,5 +1,5 @@
 # Sistema NP Setup -> Inicializa scoreboards y configuraciones para zonas NP
-# Se ejecuta desde crimson_core:zonas/setup
+# Se ejecuta desde crimson_core:modules/areas/setup
 
 # Scoreboards de Zonas No Protegidas
 scoreboard objectives add sl.zone.np dummy

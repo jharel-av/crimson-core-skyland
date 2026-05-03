@@ -3,7 +3,7 @@
 
 # --- Ejecución de Módulos ---
   # Zonas (NP y LP)
-function crimson_core:zonas/main
+function crimson_core:modules/areas/main
   # Anticaidas y Checkpoints
 function crimson_core:checkpoints/tick
   # Sistemas de xLejks

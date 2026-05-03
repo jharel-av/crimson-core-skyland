@@ -8,7 +8,7 @@ tellraw @a[tag=admin] [{"text":"[Skyland Engine]","color":"gold"},{"text":" Core
 function crimson_core:core/first_time_setup
   # Ejecución de Modulos:
     # Zonas (NP y LP)
-function crimson_core:zonas/setup
+function crimson_core:modules/areas/setup
     # Anticaidas y Checkpoints
 function crimson_core:checkpoints/load
     # Sistemas de xLejks

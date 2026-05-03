@@ -1,4 +1,4 @@
 # Zonas: Setup
 # Unifica la carga de los diferentes tipos de zonas.
 
-function crimson_core:zonas/np/setup
+function crimson_core:modules/areas/no_protec/setup
