@@ -1,3 +1,5 @@
+# warn-off-file execute-group
+# warn-off-file nbt-items-use-if-items
 # ------ Sistema de Totems -----
 # Creado por xLejks
 # Optimizado por Gemini
@@ -15,7 +17,7 @@ execute as @a[tag=PortaTotem] at @s run tag @s[y=-58,dy=-600] add RescatarDelVac
 scoreboard players set #count skyland.vt.count 0
 execute as @a[tag=RescatarDelVacio] run scoreboard players add #count skyland.vt.count 1
 execute if score #count skyland.vt.count matches 1 run tellraw @a ["",{"color":"blue","text":"El Totem del Vacio ha rescatado a "},{"selector":"@a[tag=RescatarDelVacio]","color":"aqua"},{"text":"!"}]
-execute if score #count skyland.vt.count matches 2.. run tellraw @a ["",{"color":"blue","text":"El Totem del Vacio ha rescatado a "},{"selector":"@a[tag=RescatarDelVacio]","color":"aqua","bold":"true"},{"text":"!"}]
+execute if score #count skyland.vt.count matches 2.. run tellraw @a ["",{"color":"blue","text":"El Totem del Vacio ha rescatado a "},{"selector":"@a[tag=RescatarDelVacio]","color":"aqua","bold":true},{"text":"!"}]
 
 # Ejecuta la secuencia de rescate para cada jugador marcado
 execute as @a[tag=RescatarDelVacio] at @s run playsound minecraft:entity.elder_guardian.curse master @a ~ ~ ~ 10 1.5
