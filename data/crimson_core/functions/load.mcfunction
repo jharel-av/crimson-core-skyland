@@ -12,5 +12,5 @@ function crimson_core:modules/areas/setup
     # Anticaidas y Checkpoints
 function crimson_core:checkpoints/load
     # Sistemas de xLejks
-function crimson_core:xlejks_core/load
+function crimson_core:modules/mechanics/load
 

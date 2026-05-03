@@ -7,4 +7,4 @@ function crimson_core:modules/areas/main
   # Anticaidas y Checkpoints
 function crimson_core:checkpoints/tick
   # Sistemas de xLejks
-function crimson_core:xlejks_core/tick
+function crimson_core:modules/mechanics/tick

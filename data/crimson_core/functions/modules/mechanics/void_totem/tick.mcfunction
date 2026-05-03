@@ -1,0 +1,1 @@
+function crimson_core:modules/mechanics/void_totem/deteccion
