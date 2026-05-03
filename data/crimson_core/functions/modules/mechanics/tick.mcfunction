@@ -13,7 +13,7 @@ function crimson_core:modules/mechanics/void_totem/deteccion
 function crimson_core:checkpoints/normal_ckpt/normal_tick
 
 # Ejecutar sistema de anticaídas general.
-function crimson_core:checkpoints/anticaidas/ac_tick
+function crimson_core:modules/mechanics/checkpoints/first_area/ac_tick
 
 # Ejecutar sistema de checkpoints totémicos.
 function crimson_core:checkpoints/totem_ckpt/totem_tick
