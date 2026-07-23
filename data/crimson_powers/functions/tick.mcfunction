@@ -11,22 +11,22 @@
 # =================================================================
 
 # [0] Llama al router principal, que gestiona eventos de jugadores (clicks, etc.).
-function crimson_powers:00_routers/tick
+function crimson_powers:core/events/tick
 
 # [1] Llama al tick de jugadores, que gestiona lógicas internas de cada uno.
-function crimson_powers:01_private_players/tick
+function crimson_powers:players/tick
 
 # [2] Llama al tick de efectos visuales.
-function crimson_powers:02_visuals/tick
+function crimson_powers:visuals/tick
 
 # [3] Llama al tick de habilidades pasivas.
-function crimson_powers:03_pasivas/tick
+function crimson_powers:passives/tick
 
 # [4] Llama al tick de sistemas internos y generales.
-function crimson_powers:04_sistema/tick
+function crimson_powers:core/system/tick
 
 # [5] Llama al tick de habilidades públicas (disponibles para todos).
-function crimson_powers:05_public/tick
+function crimson_powers:abilities/tick
 
 # [10] Llama al tick de compatibilidad con mods.
-function crimson_powers:10_on_mods/tick
+function crimson_powers:compat/tick

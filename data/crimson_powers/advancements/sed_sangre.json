@@ -5,6 +5,6 @@
     }
   },
   "rewards": {
-    "function": "crimson_powers:05_public/attack/robo_sangre/trigger"
+    "function": "crimson_powers:abilities/attack/robo_sangre/trigger"
   }
 }

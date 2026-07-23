@@ -1,0 +1,2 @@
+execute unless predicate crimson_powers:sneak run function crimson_powers:players/00_mystics/mystic/mystic_dash/trigger
+execute if predicate crimson_powers:sneak run function crimson_powers:players/00_mystics/mystic/mystic_dash/change_lv

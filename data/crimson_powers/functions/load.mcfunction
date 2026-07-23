@@ -11,8 +11,8 @@
 
 ## Llamada a los archivos de carga de cada subsistema
 # Carga de Routers (Eventos y Activadores) 00_routers
-function crimson_powers:00_routers/load
+function crimson_powers:core/events/load
 # Carga de Pasivas 03_pasivas
-function crimson_powers:03_pasivas/load
+function crimson_powers:passives/load
 # Carga de Activas 04_activas
-function crimson_powers:05_public/load
+function crimson_powers:abilities/load

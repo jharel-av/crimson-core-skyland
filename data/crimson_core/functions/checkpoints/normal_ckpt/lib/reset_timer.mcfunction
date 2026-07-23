@@ -5,9 +5,6 @@
 # Limpiar los scores del checkpoint del jugador.
 scoreboard players reset @s acp_id
 scoreboard players reset @s acp_timer
-scoreboard players reset @s acp_x
-scoreboard players reset @s acp_y
-scoreboard players reset @s acp_z
 
 # Notificar al jugador que su punto de guardado ha expirado.
 tellraw @s [{"text":"[Checkpoints]","color":"gold"},{"text":" ⏰ Tu checkpoint ha expirado.","color":"yellow"}]

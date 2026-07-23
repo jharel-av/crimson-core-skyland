@@ -12,7 +12,6 @@ tellraw @a[tag=admin] [{"text":"[Skyland Engine]","color":"gold"},{"text":" Mód
 #
 # acp_height: (Jugador) Altura actual del jugador.
 # acp_id: (Jugador) ID del último checkpoint visitado.
-# acp_x, acp_y, acp_z: (Jugador) Coordenadas del último checkpoint.
 # acp_timer: (Jugador) Tiempo restante del checkpoint.
 # acp_last: (Jugador) ID del checkpoint anterior para evitar spam de notificaciones.
 # acp_temp: (Jugador) Scoreboard temporal para operaciones.

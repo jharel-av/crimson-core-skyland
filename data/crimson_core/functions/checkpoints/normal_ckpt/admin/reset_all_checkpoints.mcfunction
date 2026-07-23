@@ -7,9 +7,6 @@
 # --- REMOVE PLAYER-SPECIFIC CHECKPOINT DATA ---
 scoreboard objectives remove acp_height
 scoreboard objectives remove acp_id
-scoreboard objectives remove acp_x
-scoreboard objectives remove acp_y
-scoreboard objectives remove acp_z
 scoreboard objectives remove acp_timer
 scoreboard objectives remove acp_last
 scoreboard objectives remove acp_temp

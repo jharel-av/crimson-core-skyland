@@ -1,2 +1,0 @@
-# Filtro del Fly, Aqui detecta que el jugador no sea el personaje Jharel que ya cuenta con pasivas de vuelo para no interferir, y a su vez con el parametro de gamemode para que solo se ejecute en modo supervivencia, esto para evitar que se ejecute el comando de vuelo en modo creativo o espectador que ya cuentan con vuelo por defecto, y si se usa pues dejarian de poder volar.
-execute if entity @s[tag=!jharel,gamemode=!creative,gamemode=!spectator] run function crimson_powers:10_on_mods/00_mystic/custom/fly
