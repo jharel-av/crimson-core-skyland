@@ -3,7 +3,7 @@
 # ----------------------------------
 
 ## Dygo:
-function crimson_powers:core/system/01_dygo/tick
+function crimson_powers:core/system/sys_players/01_dygo/tick
 
 ## Sistema Inicial:
 # Dar el selector a los jugadores nuevos que entran por primera vez
