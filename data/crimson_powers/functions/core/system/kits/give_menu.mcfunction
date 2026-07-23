@@ -1,0 +1,1 @@
+give @s warped_fungus_on_a_stick{display:{Name:'{"text":"» Notas Borrosas «","color":"gold","bold":true,"italic":false}',Lore:['{"text":"Haz clic derecho para abrir","color":"gray","italic":true}','{"text":"el menú de clases y recuperación.","color":"gray","italic":true}']},CustomModelData:1001,skyland_menu:1b,HideFlags:1} 1
