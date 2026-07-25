@@ -1,5 +1,5 @@
 {
   "lint": {
-    "undeclaredSymbol": [null]
+    "undeclaredSymbol": null
   }
 }
