@@ -1,8 +1,9 @@
 # === Mystic Form (Switch ON) ===
 # Se ejecuta cuando Dygo tira el item 'MysticFormOff'.
 
-## Step 1: ITem:
-# give @s carrot_on_a_stick{d_mcform:1b,CustomModelData:2,HideFlags:5,Unbreakable:1b,display:{Name:'[{"text":"| ","italic":false,"color":"dark_purple"},{"text":"Mystic Form","bold":true,"italic":false,"color":"light_purple"},{"text":" |","italic":false,"color":"dark_purple"}]',Lore:['[""]','[{"text":"► Forma Mística Activada:","italic":false,"color":"light_purple"}]','[""]','["",{"text":"● ","italic":false,"color":"gold"},{"text":"+30% Velocidad Base","italic":false,"color":"yellow"}]','["",{"text":"● ","italic":false,"color":"gold"},{"text":"+10 Vida Máxima","italic":false,"color":"yellow"}]','["",{"text":"● ","italic":false,"color":"gold"},{"text":"+4 Daño de Ataque","italic":false,"color":"yellow"}]','[""]','["",{"text":"Click Derecho para Activar.","italic":false,"color":"gray"}]','[""]']},Enchantments:[{id:"minecraft:mending",lvl:1s}]} 1 
+## Step 1: ITEM:
+# Convertimos el palo en un arma sumándole +8 Daño (Como Espada de Netherite)
+item replace entity @s weapon.mainhand with carrot_on_a_stick{d_mcform:1b,CustomModelData:2,HideFlags:127,Unbreakable:1b,display:{Name:'[{"text":"| ","italic":false,"color":"dark_purple"},{"text":"Mystic Form","bold":true,"italic":false,"color":"light_purple"},{"text":" |","italic":false,"color":"dark_purple"}]',Lore:['[""]','[{"text":"► Forma Mística Activada:","italic":false,"color":"light_purple"}]','[""]','["",{"text":"● ","italic":false,"color":"gold"},{"text":"+30% Velocidad Base","italic":false,"color":"yellow"}]','["",{"text":"● ","italic":false,"color":"gold"},{"text":"+10 Vida Máxima","italic":false,"color":"yellow"}]','["",{"text":"● ","italic":false,"color":"gold"},{"text":"+4 Daño de Ataque","italic":false,"color":"yellow"}]','[""]','["",{"text":"Click Derecho para Desactivar.","italic":false,"color":"gray"}]','[""]']},Enchantments:[{id:"minecraft:mending",lvl:1s},{id:"minecraft:sweeping",lvl:3s},{id:"minecraft:sharpness",lvl:5s},{id:"minecraft:looting",lvl:3s}],AttributeModifiers:[{AttributeName:"generic.attack_damage",Name:"generic.attack_damage",Amount:8,Operation:0,UUID:[I;1,2,3,4],Slot:"mainhand"},{AttributeName:"generic.attack_speed",Name:"generic.attack_speed",Amount:-2.4,Operation:0,UUID:[I;1,2,3,5],Slot:"mainhand"}]} 1
 
 ## Step 3: Aplicar los modificadores de atributos
 # Velocidad (+30% Base)
@@ -15,8 +16,7 @@ attribute @s minecraft:generic.attack_damage modifier add 33333333-3333-3333-333
 ## Step 4: Feedback visual y sonoro
 tag @s add MysticForm
 scoreboard players set @s mc_form 1
-playsound minecraft:entity.wither.spawn master @s ~ ~ ~ 1 1.2
-particle minecraft:reverse_portal ~ ~1 ~ 0.5 1 0.5 0.1 100
+function crimson_powers:visuals/01_dygo/mystic_form_on
 
 # Si esta disponible la transformación se llama al archivo de ON-Mods
 function crimson_powers:compat/00_mystic/00_router/morp 

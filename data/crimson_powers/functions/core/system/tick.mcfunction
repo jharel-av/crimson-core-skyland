@@ -5,6 +5,12 @@
 ## Dygo:
 function crimson_powers:core/system/sys_players/01_dygo/tick
 
+## Papuprime:
+function crimson_powers:core/system/sys_players/02_papuprime/tick
+
+## Jharel:
+function crimson_powers:core/system/sys_players/07_jharel/tick
+
 ## Sistema Inicial:
 # Dar el selector a los jugadores nuevos que entran por primera vez
 execute as @a[tag=!has_menu] run function crimson_powers:core/system/kits/give_menu

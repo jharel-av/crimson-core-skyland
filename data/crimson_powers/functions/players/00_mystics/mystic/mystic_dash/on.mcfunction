@@ -8,11 +8,10 @@ execute if score @s dash_est matches 0 run function crimson_powers:players/00_my
 execute if score @s dash_est matches 1 run function crimson_powers:players/00_mystics/mystic/mystic_dash/nivel/md_2
 execute if score @s dash_est matches 2 run function crimson_powers:players/00_mystics/mystic/mystic_dash/nivel/md_3
 # Efecto de Partículas y Sonido al Activar la Habilidad
-execute at @s run playsound entity.experience_orb.pickup master @a[distance=..9] ~ ~ ~ 10 1 1
+function crimson_powers:visuals/01_dygo/mystic_dash_on
 #
 tag @s add MysticDash
 scoreboard players set @s mc_dash 1
-execute at @s run particle minecraft:happy_villager ~ ~ ~ 3 2 3 1 50 force
 
 #Si esta disponible la transformación se llama al archivo de ON-Mods
 function crimson_powers:compat/00_mystic/00_router/morp

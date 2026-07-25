@@ -8,11 +8,9 @@
 attribute @s minecraft:generic.movement_speed modifier remove 11111111-1111-1111-1112-111111111111
 attribute @s minecraft:generic.attack_damage modifier remove 11111111-1111-1111-1111-111111111112
 effect clear @s jump_boost
-playsound entity.experience_orb.pickup master @s ~ ~ ~ 10 0 1
-
+function crimson_powers:visuals/01_dygo/mystic_dash_off
 tag @s remove MysticDash 
 scoreboard players set @s mc_dash 0
-execute at @s run particle minecraft:happy_villager ~ ~ ~ 3 2 3 1 50 force
 
 #Si esta disponible la transformación se llama al archivo de ON-Mods
 function crimson_powers:compat/00_mystic/00_router/morp

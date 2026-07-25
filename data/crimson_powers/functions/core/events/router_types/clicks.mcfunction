@@ -1,5 +1,6 @@
 # 1. Ruta para Dygo
 execute if entity @s[tag=dygo] at @s run function crimson_powers:core/events/players/private/00_dygo
+execute if entity @s[tag=t139] at @s run function crimson_powers:core/events/players/private/t139
 
 # 2. Ruta para Jharel
 execute if entity @s[tag=jharel] at @s run function crimson_powers:core/events/players/private/07_jharel
